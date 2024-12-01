@@ -1,2 +1,10 @@
-# KLOMS-Bilibili-Video-Loop-Player-plus
+# Bilibili Video Loop Player plus
+介绍
 实现Bilibili视频片段的循环播放，时间单位为分钟，支持每30秒倒退0.2秒，播放三次后停止循环。带有可拖动的悬浮窗和智能调时功能
+
+安装教程
+添加篡改猴扩展 直接添加脚本
+
+使用说明
+可以循环播放片段
+可以将长视频自动声音画面同步化
